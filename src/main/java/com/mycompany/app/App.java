@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!  Ahora usamos un trigger :D!!" );
+        System.out.println( "Hello World! " );
     }
 }
